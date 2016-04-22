@@ -17,6 +17,8 @@
 
 	<name>plugins/Calculator_Plus.jar</name>
 	<description></description>
+	<url>http://imagej.net/Calculator_Plus</url>
+	<inceptionYear>2002</inceptionYear>
 
 	<developers>
 		<developer>
