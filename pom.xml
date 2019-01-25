@@ -15,7 +15,7 @@
 
 	<name>Calculator Plus</name>
 	<description>Calculator Plus plugin for Fiji.</description>
-	<url>http://imagej.net/Calculator_Plus</url>
+	<url>https://imagej.net/Calculator_Plus</url>
 	<inceptionYear>2002</inceptionYear>
 	<organization>
 		<name>Fiji</name>
@@ -33,7 +33,7 @@
 		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
-			<url>http://imagej.net/User:Rueden</url>
+			<url>https://imagej.net/User:Rueden</url>
 			<roles>
 				<role>maintainer</role>
 			</roles>
@@ -42,29 +42,29 @@
 	<contributors>
 		<contributor>
 			<name>Wayne Rasband</name>
-			<url>http://imagej.net/Wayne_Rasband</url>
+			<url>https://imagej.net/Wayne_Rasband</url>
 			<roles><role>founder</role></roles>
 			<properties><id>rasband</id></properties>
 		</contributor>
 		<contributor>
 			<name>Daniel Hornung</name>
-			<url>http://imagej.net/User:Hornung</url>
+			<url>https://imagej.net/User:Hornung</url>
 			<roles><role>founder</role></roles>
 		</contributor>
 		<contributor>
 			<name>Johannes Schindelin</name>
-			<url>http://imagej.net/User:Schindelin</url>
+			<url>https://imagej.net/User:Schindelin</url>
 			<roles><role>founder</role></roles>
 			<properties><id>dscho</id></properties>
 		</contributor>
 		<contributor>
 			<name>Gabriel Landini</name>
-			<url>http://imagej.net/User:Landini</url>
+			<url>https://imagej.net/User:Landini</url>
 			<properties><id>landinig</id></properties>
 		</contributor>
 		<contributor>
 			<name>Mark Hiner</name>
-			<url>http://imagej.net/User:Hinerm</url>
+			<url>https://imagej.net/User:Hinerm</url>
 			<properties><id>hinerm</id></properties>
 		</contributor>
 	</contributors>
@@ -103,7 +103,7 @@
 	<repositories>
 		<repository>
 			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
+			<url>https://maven.imagej.net/content/groups/public</url>
 		</repository>
 	</repositories>
 
